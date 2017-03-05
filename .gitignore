@@ -1,2 +1,13 @@
 **/.ipynb_checkpoints/
 
+**/checkpoint
+
+**/preprocess_*
+**/__pycache__/
+cifar-10-python.tar.gz
+cifar-10-batches-py
+DLND-image-classification/classifier.py
+DLND-image-classification/image_classification.meta
+DLND-image-classification/image_classification.index
+DLND-image-classification/image_classification.data-00000-of-00001
+
