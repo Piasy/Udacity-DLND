@@ -9,7 +9,7 @@
 **/__pycache__/
 cifar-10-python.tar.gz
 cifar-10-batches-py
-DLND-image-classification/classifier.py
+image-classification/classifier.py
 **.meta
 **.index
 **.data-00000-of-00001
