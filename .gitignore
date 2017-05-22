@@ -1,6 +1,7 @@
 **/.ipynb_checkpoints/
 
 **/checkpoint
+**/data
 **/logs
 **/.floydexpt
 **/.floydignore
